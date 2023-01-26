@@ -1,0 +1,7 @@
+
+#driver.find_element(By.CSS_SELECTOR,"input[placeholder='Enter Student ID / Registration Number /Net ID*']").send_keys("Hello")
+#driver.find_element(By.XPATH,"/html/body/div[1]/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td/form/div[1]/table/tbody/tr[2]/td/input").send_keys("Hello")
+driver.find_element(By.XPATH,"/html/body/div[1]/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td/form/div[1]/table/tbody/tr[6]/td/input").send_keys("1458")
+
+
+AjaxPostMethod('smhid=ZjQwZjdhYzdmMTkzNjdlMjBkZTFhYWJkN2RkNGI1NzNhZmQxMTFmMWVjMmQ1NzkzMDdiOWEzODcyMTA4NDdlNjcyMDhkMGQxNWIxMzU5ZmJlY2U4ZGNjNWUwYmE3YTEzODM4MWE0YjQ0Njk4YjkzMzg5MTk0ODY4NDllZDc0NzVkMWVmZDk0ZjQ0OThkMmFhYTQ2ZDc2OGZlODJlMTg3OTlkMDM5YmM4OTEzNmVmNjVlMTc3ZTFiYmI3YjFmYjliNGEyNmViYjM3Yzc0Y2U4MThiZmVmNzZmYmY2ZmI3ZjA3ZDJmNzZlNDk0MDg3MGVhNzY2OTczMDdjMDU2NDI1NWY1ZWE4YmI1ODI1YmJkOTZhMjEyYmFhZmYwMjg4ZWZiZWIxN2QxNGZkNzVlMjRjNzFmYTBlZjY1NTAyNDNkZWIzMDYxMWQ4MTZkMTc4OGE4ZWIyOGY0YjY3OTFhZGNlY2QyZDQ2NzQ0YjlmODRlYmQ5Mjg0YWUzMTBjNGE0MjBiNjgzYzFiODk4ZjU2MmNhMjgwMmYxYjRiNmM3ZDJjZWI0ZmYzNWQ1Y2QyMmExNzQwNjZlYzUzNDE3YWFiZWNjMWI5MzZlMWU1ODRjNzE2YTBiMWVlODliMjcwMjIxMzgwMGNlNjA5NzUwMDE3MWIwM2Y2NjBhYjMwYWY3ZmQ1MWQyNWZiODhjZDM2YWIzNTBlMDk1MDM3ODMzZWYyMDQwOTM0ODg4ZjIxYzdkZmNhYTk0MzA0NjI3NjNkYmNiZGZlZjIxOTQ3OTFmMzQwMTc4MzQxNzEzMzEzMzU2N2JlZDM=')
