@@ -1,0 +1,4 @@
+*.png
+geckodriver.log
+erp/
+__pycache__/
